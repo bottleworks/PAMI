@@ -42,9 +42,11 @@ Note: PAMI Requires PHP 5.6+.
 Add this library to your [Composer](https://packagist.org/) configuration. In
 composer.json:
 ```json
+{
   "require": {
     "chan-sccp/pami": "2.*"
   }
+}
 ```
 
 # QuickStart
